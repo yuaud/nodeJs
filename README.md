@@ -23,4 +23,4 @@ GMAIL_USER = example@gmail, for sending e-mail activation links
 GMAIL_PASSWORD = example@gmail's password
 
 
-you also need to create an app password for gmail to letting Gmail give access to third party softwares, apps. If you won't do that Gmail won't allow you to access your e-mail via nodemailer.
+you also need to create an app password for gmail to letting Gmail give access to third party softwares, apps. If you don't do that Gmail won't allow you to access your e-mail via nodemailer.
